@@ -34,6 +34,7 @@ sidebar_label: Anime
 ## streaming
 
 - [9Anime](https://9anime.to) - Watch anime online. English anime, dubbed, subbed.
+  -[9animes](https://9animes.org) - Watch anime online without ads.(subbed, dubbed)
 - [4anime](https://4anime.to/) - A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
 - [Anime8](https://anime8.me/) - Watch & download online in high quality.
 - [GoGoAnime.io](https://www18.gogoanime.io/) - Subs and dubs, many ads, many player alternatives.
@@ -47,6 +48,7 @@ sidebar_label: Anime
 - [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
   - [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
   - [Kissanime.ac](https://kissanime.ac/) - Large cartoon collection that uses RapidVideo.
+  -[kissanimes.tv] (https://kissanimes.tv/) - Watch Latest English Dubbed, Subbed anime online ads free and fast!!
 - [KissAsian](http://kissasian.ch/) - Yet another website for Animes.
 - [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
   - [watchcartoononline.io](https://www.watchcartoononline.io/) - Outdated site layout, still active.
