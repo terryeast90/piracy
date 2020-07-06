@@ -51,6 +51,7 @@ sidebar_label: Anime
 - [watchcartoononline.com](https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
   - [watchcartoononline.io](https://www.watchcartoononline.io/) - Outdated site layout, still active.
   - [WatchCartoonsOnline.la](https://watchcartoonsonline.la/)
+  -[WatchCartoonsHd.com](https://watchcartoonshd.com/) - Relatively New Site, with very fews Ads
 - [Toonova](http://www.toonova.net/) - Another site for streaming cartoons.
 - [AnimePahe](https://animepahe.com/) - A minimilistic anime streaming/download website, subs only.
 - [AnimeRam](https://ww2.animeram.cc/) - A streaming website for dubbed/subbed anime.
